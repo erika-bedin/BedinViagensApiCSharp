@@ -7,7 +7,7 @@ https://github.com/erika-bedin/BedinViagensApiCSharp/assets/127342699/ec6f5edd-a
 
 
 ## Banco de dados 
-Ajustaei a base de dados para relatórios das APIs, e disponibilizei acesso aos dados consumidos pelas APIs.
+Ajustei a base de dados para relatórios das APIs, e disponibilizei acesso aos dados consumidos pelas APIs.
  
 ## Backend 
 Desenvolvi as APIs para manipulação de dados em C#  
